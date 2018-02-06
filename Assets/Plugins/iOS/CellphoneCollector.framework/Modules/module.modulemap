@@ -1,0 +1,6 @@
+framework module CellphoneCollector {
+  umbrella header "CellphoneCollector.h"
+
+  export *
+  module * { export * }
+}
